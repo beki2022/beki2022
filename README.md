@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beki2022
-- 👀 I’m interested in data science and machine learning 
-- 🌱 I’m currently learning artificial neural network
-- 💞️ I’m looking to collaborate on matlab simulink or neural network based works. 
+- 👀 I’m interested in data science and machine learning. 
+- 🌱 I’m currently learning artificial neural network.
+- 💞️ I’m looking to collaborate on matlab/simulink or neural network based works. 
 - 📫 How to reach me you can reach me using this email; bekihhood@gmail.com
 
 <!---
